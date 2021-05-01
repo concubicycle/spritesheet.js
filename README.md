@@ -1,3 +1,6 @@
+# Credit
+I didn't make this, this is created by [krzystof-o](https://github.com/krzysztof-o). I just forked and fixed some security issues by changing up dependencies.
+
 ![spritesheet.js](http://i.imgur.com/RcHZ2qZ.png)
 ==============
 
